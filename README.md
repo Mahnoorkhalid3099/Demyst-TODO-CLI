@@ -13,12 +13,12 @@ Before usage, ensure that Docker is installed on your machine. Download Docker D
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Mahnoorkhalid3099/Demyst-TODO-CLI.git
 ```
 2. Navigate to the project directory:
 
 ```bash
-cd your-repository
+cd Demyst-TODO-CLI
 ```
 3. Build the Docker image:
 
