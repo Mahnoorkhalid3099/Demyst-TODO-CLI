@@ -1,0 +1,8 @@
+version: '3'
+services:
+  todo-cli:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/usr/src/app
