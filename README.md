@@ -104,7 +104,7 @@ Completed: true
 ---------------------------
 ```
 
-## Other ways to run
+## Alternate way to run
 In an alternate way, you can also use run following script at root directory for the project to display the output.
 ```bash
 npm start
